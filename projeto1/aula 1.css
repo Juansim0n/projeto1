@@ -1,0 +1,112 @@
+#cima{
+    background: color rgb(14, 160, 160);
+                width: 200px;
+                margin: auto;
+                border: 1px;
+             margin-right: 5px;
+                                          
+}
+
+
+h1{
+    height: 20px;
+      
+}
+
+#titulo{
+    border: 1px red;
+}
+
+
+
+
+/*AULA DIA 05/09 LINK.HTML*/
+a{  text-decoration: none;
+    border: 0;
+    padding: 5px;}
+
+
+a:link{ color: rgb(255, 255, 255);}
+
+a:visited{color: rgb(255, 255, 255);}
+
+a:hover{
+    color: black;
+    background: rgb(38, 0, 255);
+    cursor: pointer;
+    padding: 25px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+/*AULA DIA 05/09 LINK.HTML*/
+
+/* AULA DIA 05/09 BARRA HORIZONTAL*/
+
+#topo{
+    height: 300px;
+    background: gray;
+    padding-top: 15px;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none
+
+
+}
+
+#topo ul{
+    margin-top: 20px;
+     background: #000;
+     float:left;
+}
+
+#topo ul li{
+     float: left;
+
+}
+
+#topo ul a{
+    font-size: 0.9em;
+    display: block;
+    padding: 0.5em 2.1em;
+    text-decoration: none;
+    color: #fff
+
+
+}
+
+#topo ul a:hover{
+
+   color: #000
+
+
+}
+/* AULA DIA 05/09 BARRA HORIZONTAL*/
+
+.cor-paragrafo{
+    color: blue;
+}
+
+#caixa{
+    background-color: mediumblue;
+                color: mintcream;
+             padding: 15px 20px 30px 40px ;
+             margin: 60px;
+             margin-left: 75px;
+    
+}
+
+.fontes{
+    font-family: "arial black";
+    color: black;
+    font-size: 30px;
+    border: 6px dotted gray;
+    
+}
+
+.fontes-2{
+    color: black;
+    font-size: 20px;
+    
+}
